@@ -1,0 +1,5 @@
+## OpenWeatherMap API Key Configuration
+# 1. Sign up at https://openweathermap.org/ to get a free API key.
+# 2. Replace YOUR_API_KEY_HERE below with your actual API key.
+# 3. Save this file and build the project in Android Studio.
+OPENWEATHER_API_KEY=YOUR_API_KEY_HERE

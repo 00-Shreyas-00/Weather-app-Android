@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_city_hint">Enter city name (e.g. Pune)</string>
+    <string name="search_button_desc">Search weather for city</string>
+    <string name="refresh_button_desc">Refresh weather</string>
+    <string name="clear_search_desc">Clear search query</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind Speed</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="feels_like_label">Feels like</string>
+</resources>
